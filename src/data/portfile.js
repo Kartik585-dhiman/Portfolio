@@ -37,16 +37,16 @@ export const profile = {
       demo: "#"
     },
     {
-      title: "Movie Recommender System",
+      title: "Movie Recommender System(Processing)",
       desc: "Machine Learning based recommendation engine using cosine similarity and content-based filtering.",
       tags: ["Python", "Scikit-learn", "Streamlit"],
       github: "#",
       demo: null 
     },
     {
-      title: "Interactive Data Dashboard",
-      desc: "Visualizing complex datasets using React and Chart.js with dynamic filtering capabilities.",
-      tags: ["React", "Chart.js", "D3.js"],
+      title: "ToDo Web Applications",
+      desc: "It is used to track and managemy daily tasks ",
+      tags: ["Frontend", "MERN Stack", "js"],
       github: "#",
       demo: "#"
     },
@@ -61,14 +61,13 @@ export const profile = {
   experiences: [
     {
       role: "Web Development Intern",
-      company: "Tech Solutions Inc.",
-      duration: "June 2024 - Aug 2024",
-      desc: "Developed responsive UI components and optimized backend API performance by 20%."
+      company: "SEO Strikers NOida ",
+      duration: "July 2025 - Sep 2025",
+      desc: "During my internship i have developed some modules of inventory tracking web applications"
     }
   ],
   certifications: [
-    { title: "Data Science Foundations", issuer: "Coursera" },
-    { title: "AWS Cloud Practitioner (In Progress)", issuer: "AWS" },
-    { title: "Full Stack Web Development", issuer: "Udemy" }
+    { title: "Data Science Foundations" , issuer: "Udemy"},
+    { title: "Full Stack Web Development", issuer: "Ducat" }
   ]
 };
